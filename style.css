@@ -83,14 +83,14 @@ h2 {
   transition: 0.8s;
 }
 
-.text-image-l .btn-image {
+.main .text-image-l a {
   float: left;
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.text-image-r .btn-image {
+.main .text-image-r a {
   float: right;
   width: 100%;
   height: 100%;
