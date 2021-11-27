@@ -2,4 +2,4 @@
 
 ↓こちらから
 
-https://poweller.github.io/akita/
+https://kentakom1213.github.io/akita/
